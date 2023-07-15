@@ -51,10 +51,6 @@
     align-items: center;
 }
 
-.header__address {
-
-}
-
 .cover {
     display: flex;
     flex-direction: column;
