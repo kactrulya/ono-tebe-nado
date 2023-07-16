@@ -77,7 +77,8 @@
     justify-content: center;
     flex-direction: column;
     gap: 20px;
-    height: 757px;
+    /*height: 757px;*/
+    padding: 165px 50px 237px 50px;
     color: azure;
     position: relative;
     z-index: 2;
@@ -155,7 +156,7 @@
     height: 52px;
     border: 1px solid #FFF;
     font: inherit;
-    color: inherit;
+    color:#FFF;
     background-color: transparent;
     text-align: center;
     font-size: 22px;
