@@ -27,7 +27,7 @@
 }
 
 .header__link {
-    text-underline-position: under; 
+    text-underline-position: under;
 }
 
 .header__logo {
@@ -157,7 +157,6 @@
     font: inherit;
     color: inherit;
     background-color: transparent;
-    width: 257px;
     text-align: center;
     font-size: 22px;
     font-style: normal;
