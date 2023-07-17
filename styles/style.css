@@ -1,12 +1,14 @@
 .header {
     display: flex;
-    padding: 92px 49px 92px 51px;
+    /*padding: 92px 49px 92px 51px;*/
     width: 100%;
     min-height: 100%;
     background-color: white;
     margin: auto;
     justify-content: space-between;
     align-items: center;
+    margin-top: 92px;
+    margin-bottom: 92px;
 }
 
 .header__menu {
@@ -79,6 +81,7 @@
     gap: 20px;
     /*height: 757px;*/
     /*padding: 165px 50px 237px 50px;*/
+    margin-top: 165px;
     color: azure;
     position: relative;
     z-index: 2;
@@ -128,14 +131,13 @@
     display: flex;
     justify-content:flex-end;
     align-items: center;
-    margin-bottom: 82px;
+    padding-bottom: 62px;
     margin-right: 50px;
     white-space: nowrap;
     text-align: right;
     gap: 78px;
     z-index: 2;
     padding-top: 147px;
-
 }
 
 .cover__description-text {
