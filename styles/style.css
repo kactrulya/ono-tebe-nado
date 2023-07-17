@@ -148,7 +148,7 @@
     text-transform: uppercase;
     z-index: 2;
     word-spacing: 1rem;
-    margin-bottom: 62px;
+    padding-bottom: 62px;
 }
 
 .bet-button {
