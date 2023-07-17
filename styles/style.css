@@ -76,10 +76,9 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    gap: 20px;
     /*height: 757px;*/
     /*padding: 165px 50px 237px 50px;*/
-    padding-top: 165px;
+    margin-top: 165px;
     color: azure;
     position: relative;
     z-index: 2;
@@ -119,6 +118,7 @@
     letter-spacing: 60px;
     font-style: normal;
     margin-right: 50px;
+    margin-bottom: 147px;
 }
 
 .span-ado {
@@ -134,7 +134,7 @@
     text-align: right;
     gap: 78px;
     z-index: 2;
-    padding-top: 135px;
+    position: relative;
 }
 
 .cover__description-text {
