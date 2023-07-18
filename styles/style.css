@@ -363,6 +363,8 @@
 .about__column {
     display: flex;
     justify-content: center;
+    width: 430px;
+    height: 240px;
 }
 
 .about__logo {
@@ -405,6 +407,8 @@
     flex-direction: column;
     gap: 25px;
     margin-left: 25px;
+    text-align: left;
+    margin-right: 50px;
 }
 
 .footer {
