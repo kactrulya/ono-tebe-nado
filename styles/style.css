@@ -20,6 +20,10 @@
     display: flex;
     flex-direction: row;
     gap: 32px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .header__links-list-item_no-bullit {
@@ -32,7 +36,7 @@
 
 .header__logo {
     display: block;
-    margin-right: 355px;
+    margin-right: 345px;
     margin-left: 209px;
 }
 
@@ -352,7 +356,7 @@
     grid-template-columns: 1fr 2fr;
     align-items: center;
     /*padding: 20px;*/
-    margin-top: 235px;
+    margin-top: 182px;
     /*margin-left: 145px;*/
 }
 
