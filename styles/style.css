@@ -357,13 +357,13 @@
     align-items: center;
     /*padding: 20px;*/
     margin-top: 235px;
-    margin-right: 120px;
     /*margin-left: 145px;*/
 }
 
 .about__column {
     display: flex;
     justify-content: center;
+    margin-left: 95px;
 }
 
 .about__logo {
