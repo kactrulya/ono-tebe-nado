@@ -88,6 +88,7 @@
     position: relative;
     z-index: 2;
     text-transform: uppercase;
+    margin-bottom: 135px;
 }
 
 .aligned-text {
@@ -126,7 +127,6 @@
     letter-spacing: 60px;
     font-style: normal;
     margin-right: 20px;
-    margin-bottom: 147px;
 }
 
 .span-ado {
