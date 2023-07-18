@@ -32,7 +32,8 @@
 
 .header__logo {
     display: block;
-    margin: auto;
+    margin-right: 355px;
+    margin-left: 209px;
 }
 
 .header__logo-image {
