@@ -351,9 +351,9 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     align-items: center;
-    padding: 20px;
+    /*padding: 20px;*/
     margin-top: 235px;
-    margin-left: 145px;
+    /*margin-left: 145px;*/
 }
 
 .about__column {
