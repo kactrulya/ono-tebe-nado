@@ -136,6 +136,7 @@
 .cover__description {
     display: flex;
     justify-content:flex-end;
+    align-items: center;
     margin-right: 50px;
     white-space: nowrap;
     text-align: right;
@@ -156,9 +157,13 @@
     text-transform: uppercase;
     z-index: 2;
     word-spacing: 1rem;
+    padding-bottom: 32px;
 }
 
 .bet-button {
+    display: block;
+    justify-content: center;
+    align-items: center;
     width: 257px;
     height: 52px;
     border: 1px solid #FFF;
@@ -171,6 +176,7 @@
     font-weight: 400;
     line-height: normal;
     text-transform: uppercase;
+    margin-bottom: 32px;
 }
 
 .lots {
