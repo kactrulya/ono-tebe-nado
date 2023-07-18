@@ -363,7 +363,6 @@
 .about__column {
     display: flex;
     justify-content: center;
-    margin-left: 95px;
 }
 
 .about__logo {
@@ -392,6 +391,7 @@
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
+    margin-left: 25px;
 }
 
 .about__text {
@@ -404,6 +404,7 @@
     display: flex;
     flex-direction: column;
     gap: 25px;
+    margin-left: 25px;
 }
 
 .footer {
