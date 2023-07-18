@@ -80,7 +80,7 @@
 .cover__title {
     display: flex;
     justify-content: center;
-   flex-direction: column;
+    flex-direction: column;
     /*height: 757px;*/
     /*padding: 165px 50px 237px 50px;*/
     margin-top: 165px;
@@ -109,7 +109,7 @@
     font-size: 100px;
     align-self: center;
     margin-left: 50px;
-    margin-right: 110px;
+    margin-right: 105px;
     letter-spacing: 30px;
     font-style: normal;
     font-weight: 700;
@@ -136,7 +136,6 @@
 .cover__description {
     display: flex;
     justify-content:flex-end;
-    align-items: center;
     margin-right: 50px;
     white-space: nowrap;
     text-align: right;
