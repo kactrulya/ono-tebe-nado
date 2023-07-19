@@ -15,7 +15,6 @@
 .header__links-list {
     display: flex;
     list-style-type: circle;
-    display: flex;
     flex-direction: row;
     gap: 32px;
     font-size: 18px;
