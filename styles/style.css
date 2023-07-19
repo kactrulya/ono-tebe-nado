@@ -54,6 +54,7 @@
     font-weight: 400;
     line-height: 24.3px;
     align-items: center;
+    text-decoration: none;
 }
 
 .cover {
@@ -110,8 +111,6 @@
 .aligned-text_center {
     font-size: 100px;
     align-self: center;
-    margin-left: 50px;
-    margin-right: 105px;
     letter-spacing: 30px;
     font-style: normal;
     font-weight: 700;
@@ -156,7 +155,7 @@
     line-height: 28px;
     text-transform: uppercase;
     z-index: 2;
-    word-spacing: 20px;
+    word-spacing: 17px;
 }
 
 .bet-button {
