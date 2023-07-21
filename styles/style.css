@@ -53,6 +53,10 @@
     text-decoration: none;
 }
 
+.header__address {
+    white-space: pre-line;
+}
+
 .cover {
     display: flex;
     flex-direction: column;
@@ -375,6 +379,10 @@
     line-height: normal;
     align-items: center;
     text-underline-position: under;
+}
+
+.footer__address {
+    white-space: pre-line;
 }
 
 .footer__menu-list {
