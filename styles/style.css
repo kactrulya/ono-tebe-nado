@@ -54,7 +54,7 @@
 }
 
 .header__address {
-    white-space: pre-line;
+    max-width: 240px;
 }
 
 .cover {
@@ -382,7 +382,7 @@
 }
 
 .footer__address {
-    white-space: pre-line;
+    max-width: 240px;
 }
 
 .footer__menu-list {
